@@ -1,2 +1,8 @@
+include ':json'
+include ':fragment23'
+include ':intentactivititwo'
+include ':onegametest'
+include ':contextmenu'
+include ':menu'
 include ':app'
 rootProject.name = "Test"
